@@ -6,3 +6,5 @@
 #rather than printing 0 and 1 or  something i printed success or failure  --- solved(if conditons)
 #re-run of automation should never fail --solved(conditions)-- raised duplication issue
 ## maintaining dry code failed(duplication issue)-- sloved(functions)
+## how to use same script at multiple locations --solved (source command)
+
